@@ -1,4 +1,4 @@
-
+# Bunni Executor - #1 Free Roblox Executor with No Lag 2026 Bunni is a free Roblox executor known for its no-lag performance and auto-execute feature, making it a great choice for users who want a smooth and efficient scripting experience in Roblox.
 
 
 ---
